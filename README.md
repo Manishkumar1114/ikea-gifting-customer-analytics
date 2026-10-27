@@ -10,11 +10,11 @@ An end-to-end analytics project using SQL Server, Python, pandas, and Power BI t
 
 ## Dashboard Preview
 
-### Business Overview
-![Business Overview](powerbi/screenshots/business-overview.png)
+![Business Overview Dashboard](powerbi/screenshots/Business_Overview_Dashboard.png)
 
 ### RFM Analysis
-![RFM Analysis](powerbi/screenshots/rfm-analysis.png)
+
+![RFM Analysis Dashboard](powerbi/screenshots/RFM_Analysis_Dashboard.png)
 
 ## Business Problem
 
